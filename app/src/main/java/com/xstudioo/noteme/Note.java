@@ -1,6 +1,6 @@
 package com.xstudioo.noteme;
 
-public class Note {
+public class Note { //informacija apie uzrasa, kuri bus saugoma
     private long id;
     private String title;
     private String content;

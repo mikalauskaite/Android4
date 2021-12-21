@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 import java.util.Calendar;
 
-public class AddNote extends AppCompatActivity {
+public class AddNote extends AppCompatActivity { //uzraso pridejimas
     Toolbar toolbar;
     EditText noteTitle,noteDetails;
     Calendar c;

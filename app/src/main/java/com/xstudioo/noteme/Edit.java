@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 import java.util.Calendar;
 
-public class Edit extends AppCompatActivity {
+public class Edit extends AppCompatActivity { //uzraso redagavimas
     Toolbar toolbar;
     EditText nTitle,nContent;
     Calendar c;

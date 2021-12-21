@@ -10,7 +10,7 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SimpleDatabase extends SQLiteOpenHelper {
+public class SimpleDatabase extends SQLiteOpenHelper { //duomenu bazes sukurimas ir implementacija
     // declare require values
     private static final int DATABASE_VERSION = 2;
     private static final String DATABASE_NAME = "SimpleDB";
